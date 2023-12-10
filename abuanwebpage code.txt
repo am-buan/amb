@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Introduction</title>
+<style type="text/css">
+body {
+    background-color: #CDAAFF;
+}
+h1  {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #819A8C;
+}
+h2 {
+    color: #FF4949;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+</style>
+</head>
+
+<body><h1><img src="../Assignment 2/snoopywoodstock.jpg" width="87" height="120" alt=""/><br>
+INTRODUCTION</h1>
+
+
+<h2>Who I am</h2>
+	
+Hi, I’m Anna and in my second year of getting a BFA for film production.  I have already worked on some student theater and film productions. Ultimately I want to work in film and comic production, with a focus on script/screenwriting and direction. 
+	
+<h2>Background</h2>
+	
+I’m already interested in web design and digital media (I currently work for UNM’s IT department with a background in graphic design) and hope to utilize it in many areas including having a host for my portfolio and writing. I’m originally from the Chicago area with interests in film, comics, art, video games, science, history, theater, and writing.
+</body>
+</html>
